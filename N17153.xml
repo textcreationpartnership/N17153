@@ -116,32 +116,34 @@
    <text xml:lang="eng">
       <front>
          <div type="half_title">
-            <pb facs="tcp:022137_0000_0FB6CB3733B814F0"/>
-            <pb facs="tcp:022137_0001_0FB6CB3E34C46858" rendition="simple:additions"/>
+            <pb facs="unknown:022137_0000_0FB6CB3733B814F0"/>
+            <pb facs="unknown:022137_0001_0FB6CB3E34C46858"
+                rendition="simple:additions"/>
             <p>LOUISA, BY MISS SEWARD. THE FIFTH EDITION.</p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:022137_0002_0FB6CB424B7EB7F0" rendition="simple:additions"/>
+            <pb facs="unknown:022137_0002_0FB6CB424B7EB7F0"
+                rendition="simple:additions"/>
             <p>LOUISA, A POETICAL NOVEL, IN FOUR EPISTLES.</p>
             <p>BY MISS SEWARD.</p>
             <p>THE FIFTH EDITION.</p>
             <p>NEW-HAVEN. PRINTED AND SOLD BY ABEL MORSE. M.DCC.LXXXIX.</p>
          </div>
          <div type="preface">
-            <pb facs="tcp:022137_0003_0FB6CB44E6E49E88"/>
+            <pb facs="unknown:022137_0003_0FB6CB44E6E49E88"/>
             <head>PREFACE.</head>
             <p>THE enſuing epiſtolary poems contain a deſcription rather of paſſions than of incidents. They reſulted from an idea of it being poſſible to unite the impaſſion'd fondneſs of <hi>POPE'S</hi> ELOISA, with the chaſter tenderneſs of <hi>PRIOR'S</hi> EMMA; avoiding the voluptuouſneſs of the firſt, and the too conceding ſoftneſs of the ſecond. It is hoped the Reader will diſtinguiſh between the apprehended poſſibility of exhibit<g ref="char:EOLhyphen"/>ing in verſe a more faultleſs female Character than the EL<g ref="char:EOLhyphen"/>OISA of <hi>POPE,</hi> or the EMMA of <hi>PRIOR,</hi> and the raſh and vain deſign of equalling, much leſs of ſurpaſſing the tranſcend<g ref="char:EOLhyphen"/>ent poetic excellence of either of thoſe Compoſitions.</p>
             <p>
                <hi>THE</hi> LOUISA of the following pages has all that enthuſiaſm which ſprings from an heart warmly affectionate, joined to a glowing and pictureſque imagination. Her ſenſibilities, heightened, and refined in the boſom of Retirement, know no bounds, except thoſe which the dignity of conſcious Worth, and a ſtrong ſenſe of Religion preſcribe. It is feared the mo<g ref="char:EOLhyphen"/>dern young Ladies will have little ſympathy with her, ſince ſhe is unfaſhionably enthuſiaſtic, and unfaſhionably tender.</p>
             <p>
                <hi>AN</hi> ingenious Friend, after reading the firſt epiſtle, re<g ref="char:EOLhyphen"/>marked, that LOUISA might have deſcribed with more inter<g ref="char:EOLhyphen"/>eſting particularity her Lover's declaration of his paſſion, and the manner in which ſhe received that declaration; but the Author thought the preſent method of conveying that circum<g ref="char:EOLhyphen"/>ſtance to the mind of the Reader more poetic. <hi>POPE'S</hi> ELO<g ref="char:EOLhyphen"/>ISA is minute in her deſcription of the awful Scenery, for<g ref="char:EOLhyphen"/>med by the rocks, the ſtreams, and mountains, of Para<g ref="char:EOLhyphen"/>clete,
-<pb facs="tcp:022137_0004_0FB6CB460BA28BD0"/>
+<pb facs="unknown:022137_0004_0FB6CB460BA28BD0"/>
 but by no means minute concerning the amorous eclair<g ref="char:EOLhyphen"/>ciſſement between herſelf and Abelard. LOUISA diſcrimi<g ref="char:EOLhyphen"/>nates her Lover's early attentions to her, tho' ſhe leaves the manner of his declaring their ſource very much to the Imagi<g ref="char:EOLhyphen"/>nation. Her application of the beautiful ſcenic objects, by which ſhe was at that interval ſurrounded, to her own, and to her Lover's ſituation; and the poſſing ſud<g ref="char:EOLhyphen"/>denly to their preſent altered appearance, contraſts the charms, and bloom of the firſt, with the chill drearneſs of the ſecond. There it was that the Author had in view that ſtriking letter in the 3d Vol. of the Nouvelle-Heloiſe, which deſcribes St. Preaux accompanying Mrs. Wolmar to the rocks of Meillerie, then covered with the richneſs of Summer-luxuriance; and painting to her the ſituation of that very Scene, when he had viſited it alone, amidſt the horrors of Winter, and found thoſe horrors congenial to the temper of his Soul.</p>
             <p>
                <hi>THIS</hi> Poem has little chance to be popular. A feeling Heart, and a fondneſs for Verſe muſt <hi>unite</hi> to render it inter<g ref="char:EOLhyphen"/>eſting. A feeling Heart without a glowing Imagination will be tired of the Landſcape-painting, ſomewhat luxuriantly in<g ref="char:EOLhyphen"/>terſperſed. An Imagination that glows, while the Heart is frozen, has a propenſity to fancy every thing proſaic which is not imagery, and will probably yawn over the reaſoning of theſe Lovers, and ſicken over their tenderneſs.</p>
             <p>
                <hi>IF,</hi> however, this little Work has the honor to intereſt and pleaſe the Few, in whom the kind and ſweet affections are
-<pb facs="tcp:022137_0005_0FB6CB479B559AB8"/>
+<pb facs="unknown:022137_0005_0FB6CB479B559AB8"/>
 blended with poetic taſte, the end for which it is publiſhed will be obtained.</p>
             <p>
                <hi>EXCEPT</hi> ſome ſlight alterations, which have been made ſince the two firſt Editions, the hundred and fifty ſix lines, with which the poem opens, were written when the Author was only nineteen. They had been miſlaid during a long in<g ref="char:EOLhyphen"/>terval, It is ſixteen months ſince they were accidentally recovered. Some few Friends, to whom the Fragment was ſhewn, thought it worth being extended into a regular Work The firſt, and third of theſe epiſtles are deſigned to be deſcrip<g ref="char:EOLhyphen"/>tive, and ſentimental; the ſecond, and laſt, dramatic.</p>
@@ -149,7 +151,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
       </front>
       <body>
          <div n="1" type="letter">
-            <pb facs="tcp:022137_0006_0FB6CB4D001ED688"/>
+            <pb facs="unknown:022137_0006_0FB6CB4D001ED688"/>
             <head>LOUISA TO EMMA, HER FRIEND IN THE EAST-INDIES</head>
             <opener>
                <dateline>
@@ -173,7 +175,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>May ſprightly Health reſiſt the torrid clime,</l>
                <l>Temper the ſickly blaſt, the ſever'd ray,</l>
                <l>
-                  <pb n="2" facs="tcp:022137_0007_0FB6CB534AF3AE30"/>And Peace, and Pleaſure, lead the ſhining Day!</l>
+                  <pb n="2" facs="unknown:022137_0007_0FB6CB534AF3AE30"/>And Peace, and Pleaſure, lead the ſhining Day!</l>
                <l>Yet, when thou know'ſt for me, that Sorrow ſhrouds</l>
                <l>Hope's cryſtal mirror with impervious clouds,</l>
                <l>The ſighs, and tears, that tendereſt pity ſpeak,</l>
@@ -205,7 +207,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>And marks the limit of the ſilent Dell,</l>
                <l>Sadly I ſit my boſom'd griefs to tell;</l>
                <l>
-                  <pb n="3" facs="tcp:022137_0008_0FB6CB544BB29930"/>Invoke thy Spirit, thoſe fond griefs to ſooth,</l>
+                  <pb n="3" facs="unknown:022137_0008_0FB6CB544BB29930"/>Invoke thy Spirit, thoſe fond griefs to ſooth,</l>
                <l>And bid, alas! their ſurging tide be ſmooth.</l>
             </lg>
             <lg>
@@ -241,7 +243,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>Hope's lovely florets wither as they blow!</l>
             </lg>
             <lg>
-               <pb n="4" facs="tcp:022137_0009_0FB6CB5F170854F0"/>
+               <pb n="4" facs="unknown:022137_0009_0FB6CB5F170854F0"/>
                <l>No grief my boſom at our parting knew,</l>
                <l>But that of bidding thee a long adieu;</l>
                <l>And the ſweet tears, that ſuch ſoft ſorrows bring,</l>
@@ -271,7 +273,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>Preſaging notes my lips unconſcious try,</l>
                <l>And murmur—"<note n="*" place="bottom">An enchanting Song of Handel's, from Milton's II Penſeroſo.</note> Hide me from Day's gariſh eye!</l>
                <l>
-                  <pb n="5" facs="tcp:022137_0010_0FB6CB60660E7E20"/>Ah! bleſt, had Death beneath his ſable ſhrine</l>
+                  <pb n="5" facs="unknown:022137_0010_0FB6CB60660E7E20"/>Ah! bleſt, had Death beneath his ſable ſhrine</l>
                <l>Hid me from all the woes that ſince were mine!</l>
                <l>Beneath my trembling fingers lightly rung</l>
                <l>The Lute's ſweet chords, reſponſive while I ſung.</l>
@@ -300,7 +302,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>Bluſhing he bows!—and gentle awe ſupplies</l>
                <l>Each ſlattering meaning to his downcaſt eyes;</l>
                <l>
-                  <pb n="6" facs="tcp:022137_0011_0FB6CB61CB59F5C8"/>Sweet, Serious, tender, thoſe blue eyes impart</l>
+                  <pb n="6" facs="unknown:022137_0011_0FB6CB61CB59F5C8"/>Sweet, Serious, tender, thoſe blue eyes impart</l>
                <l>A thouſand dear ſenſations to the heart;</l>
                <l>Mild as the Evening Star whoſe ſhining ray</l>
                <l>Soft in th' unruffled Water ſeems to play;</l>
@@ -330,7 +332,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>Alike to practice; or ſuſpect deceit.</l>
             </lg>
             <lg>
-               <pb n="7" facs="tcp:022137_0012_0FB6CB6B462B44F8"/>
+               <pb n="7" facs="unknown:022137_0012_0FB6CB6B462B44F8"/>
                <l>Ceaſe, vain Regrets, excurſive Fancy ceaſe<g ref="char:punc">▪</g>
                </l>
                <l>Ye only wound afreſh my bleeding peace,</l>
@@ -361,7 +363,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>On more luxuriant ſhade the Noon-beam plays,</l>
                <l>And richer gold the Evening-Sun arrays;</l>
                <l>
-                  <pb n="8" facs="tcp:022137_0013_0FB6CB6C4E3D91A0"/>Stars ſeem to glitter with enamour'd fire,</l>
+                  <pb n="8" facs="unknown:022137_0013_0FB6CB6C4E3D91A0"/>Stars ſeem to glitter with enamour'd fire,</l>
                <l>And ſhadowy Hills in ſtatelier grace aſpire;</l>
                <l>More ſubtle ſweetneſs ſcents the paſſing gales,</l>
                <l>And ſofter beauty decks the moon-light Vales;</l>
@@ -390,7 +392,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>As the gay Lark his laſt clear rarol ſung,</l>
                <l>And on a ſlanting Sun-beam warbling hung,</l>
                <l>
-                  <pb n="9" facs="tcp:022137_0014_0FB6CB6E04746950"/>With ſweeter muſic trill'd the veſper lay,</l>
+                  <pb n="9" facs="unknown:022137_0014_0FB6CB6E04746950"/>With ſweeter muſic trill'd the veſper lay,</l>
                <l>Than when he ſoar'd amid the blaze of Day;</l>
                <l>But yet a thouſand times more ſweet the ſound,</l>
                <l>In which my Soul its deareſt bleſſing found!</l>
@@ -421,7 +423,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>And now, with ruffling billow, cold, and pale,</l>
                <l>Runs, ſwoln, and daſhing, down the lonely Vale;</l>
                <l>
-                  <pb n="10" facs="tcp:022137_0015_0FB6CB779A47E3D8"/>While, to theſe tear-ful eyes, Grief's faded form,</l>
+                  <pb n="10" facs="unknown:022137_0015_0FB6CB779A47E3D8"/>While, to theſe tear-ful eyes, Grief's faded form,</l>
                <l>Sits on the Cloud, and ſighs amid the Storm!</l>
             </lg>
             <lg>
@@ -453,7 +455,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>Dark on my fate, the long, long night of Woe,</l>
             </lg>
             <lg>
-               <pb n="11" facs="tcp:022137_0016_0FB6CB7912B24528"/>
+               <pb n="11" facs="unknown:022137_0016_0FB6CB7912B24528"/>
                <l>Yet, O my Soul! reſume it; e'er the power</l>
                <l>Of waſting Sickneſs brings the fever'd Hour,</l>
                <l>That ſtops th' ill-guided pen in the weak hand,</l>
@@ -485,7 +487,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>The ſame ſad Day my lov'd EUGENIO ſigh'd</l>
                <l>Adieus impaſſion'd to his promis'd Bride;</l>
                <l>
-                  <pb n="12" facs="tcp:022137_0017_0FB6CB7A9E750328"/>Yet often urg'd, inſpiring faithleſs eaſe,</l>
+                  <pb n="12" facs="unknown:022137_0017_0FB6CB7A9E750328"/>Yet often urg'd, inſpiring faithleſs eaſe,</l>
                <l>That between <hi>us</hi> Fate ſpread no cruel <hi>Seas</hi>;</l>
                <l>Alas! in his chang'd Heart my eyes explore,</l>
                <l>Of Falſehood's waves,—a Sea,— without a Shore!</l>
@@ -516,7 +518,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>Thro' four ſweet months, to my delighted eyes</l>
                <l>Theſe precious tablets of my bliſs ariſe!</l>
                <l>
-                  <pb n="13" facs="tcp:022137_0018_0FB6CB84AB29CA18"/>At length, dread Silence,—torturing Doubt, and Fear,</l>
+                  <pb n="13" facs="unknown:022137_0018_0FB6CB84AB29CA18"/>At length, dread Silence,—torturing Doubt, and Fear,</l>
                <l>Prompt the pang'd ſigh—but check the ſofter tear;</l>
                <l>Thro' the lone Day, and lonelier Night, impaat</l>
                <l>"The hope deferr'd, that maketh ſick the Heart."</l>
@@ -548,7 +550,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>To tear the wrong'd LOUISA from thy heart?</l>
             </lg>
             <lg>
-               <pb n="14" facs="tcp:022137_0019_0FB6CB85D2C223A8"/>
+               <pb n="14" facs="unknown:022137_0019_0FB6CB85D2C223A8"/>
                <l>Gold, and y<gap reason="illegible: indecipherable" extent="1 letter">
                      <desc>•</desc>
                   </gap> Gems, that lurk in Eaſtern Cave,</l>
@@ -582,7 +584,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>Bleed, Faithleſs, bleed!—LOUISA's Wrongs explor'd,</l>
                <l>Shall frown relentleſs on her Brother's ſword!</l>
                <l>
-                  <pb n="15" facs="tcp:022137_0020_0FB6CB879794E168"/>—Raſh, loſt LOUISA!—could'ſt thou bear the ſtrife?</l>
+                  <pb n="15" facs="unknown:022137_0020_0FB6CB879794E168"/>—Raſh, loſt LOUISA!—could'ſt thou bear the ſtrife?</l>
                <l>Throw on a fatal chance thy Brother's life?</l>
                <l>Or ſtretch, a victim to thy proud diſdain,</l>
                <l>EUGENIO, pale, and bleeding, on the plain?</l>
@@ -611,7 +613,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>Yes, dear LORENZO! thou ſhalt ſtill believe,</l>
                <l>Tho' much the thought thy gentle breaſt will grieve,</l>
                <l>
-                  <pb n="16" facs="tcp:022137_0021_0FB6CB917718ACE0"/>LOUISA, loſt to tenderneſs, and truth,</l>
+                  <pb n="16" facs="unknown:022137_0021_0FB6CB917718ACE0"/>LOUISA, loſt to tenderneſs, and truth,</l>
                <l>In the vain levity of thoughtleſs Youth,</l>
                <l>Prov'd to EUGENIO's love a cold Ingrate,</l>
                <l>And lightly ſplenetic <hi>deſerv'd</hi> her fate.</l>
@@ -641,7 +643,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>Curtain the ſource of this illuſive light,</l>
                <l>Its evaneſcent fires no more remain,</l>
                <l>
-                  <pb n="17" facs="tcp:022137_0022_0FB6CB936619A980"/>But Horrors gather round the darken'd Fane;</l>
+                  <pb n="17" facs="unknown:022137_0022_0FB6CB936619A980"/>But Horrors gather round the darken'd Fane;</l>
                <l>The lofty Turrets, deſolately grand,</l>
                <l>In dreary ſtate, and lonely ſilence ſtand;</l>
                <l>Thro' the dim Ailes pale Spectres ſeem to fleet,</l>
@@ -670,7 +672,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>The ſoft exemption,—and the long repoſe.</l>
             </lg>
             <lg>
-               <pb n="18" facs="tcp:022137_0023_0FB6CB94E9ABB1B0"/>
+               <pb n="18" facs="unknown:022137_0023_0FB6CB94E9ABB1B0"/>
                <l>Ah no!—a guardian Spirit ſeems to ſay,</l>
                <l>"Stay thee, LOUISA, yet a little ſtay!</l>
                <l>"Awake not righteous Heaven's avenging Hate</l>
@@ -701,7 +703,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>Friend of my Soul, and Siſter of my Heart!</l>
                <l>A fallen Bloſſom while thy tears embalm,</l>
                <l>
-                  <pb n="19" facs="tcp:022137_0024_0FB6CB9E80928BA0"/>Regrets that Fondneſs prompts, let Fondneſs calm;</l>
+                  <pb n="19" facs="unknown:022137_0024_0FB6CB9E80928BA0"/>Regrets that Fondneſs prompts, let Fondneſs calm;</l>
                <l>Since tho' this mortal Frame, Affection's ſlave,</l>
                <l>Waſtes by th' envenom'd wound that Falſehood gave,</l>
                <l>I ſtill poſſeſs, thus withering in my youth,</l>
@@ -728,7 +730,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
             <trailer>END OF THE FIRST EPISTLE.</trailer>
          </div>
          <div n="2" type="letter">
-            <pb facs="tcp:022137_0025_0FB6CBA014957478"/>
+            <pb facs="unknown:022137_0025_0FB6CBA014957478"/>
             <head>SECOND EPISTLE. EUGENIO TO EMMA, ON HER RETURN FROM THE EAST-INDIES.</head>
             <opener>
                <dateline>
@@ -745,7 +747,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>When bitter Winds howl fearful o'er the plains,</l>
                <l>And the bright Stars are quench'd amid the rains!</l>
                <l>
-                  <pb n="21" facs="tcp:022137_0026_0FB6CBA18F118F28"/>So quench'd each ſmiling Pleaſures roſeate ray,</l>
+                  <pb n="21" facs="unknown:022137_0026_0FB6CBA18F118F28"/>So quench'd each ſmiling Pleaſures roſeate ray,</l>
                <l>That once illumin'n loſt EUGENIO's way!</l>
             </lg>
             <lg>
@@ -776,7 +778,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>To thee LOUISA queſtionleſs appeal'd;</l>
                <l>Reveal'd my vows, my broken faith reveal'd;</l>
                <l>
-                  <pb n="22" facs="tcp:022137_0027_0FB6CBA83116B620"/>Taught thee, thro' ſcenes, now paſt and gone, to rove,</l>
+                  <pb n="22" facs="unknown:022137_0027_0FB6CBA83116B620"/>Taught thee, thro' ſcenes, now paſt and gone, to rove,</l>
                <l>And hate the mean apoſtate to his love.</l>
             </lg>
             <lg>
@@ -797,7 +799,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>Tranſlucent Deva the green Valley laves,</l>
                <l>And darkling Alders ſcreen her wandering waves,</l>
                <l>
-                  <pb n="23" facs="tcp:022137_0028_0FB6CBAF0B24AD28"/>Till ſlow ſhe riſes from o'er-hanging ſhades,</l>
+                  <pb n="23" facs="unknown:022137_0028_0FB6CBAF0B24AD28"/>Till ſlow ſhe riſes from o'er-hanging ſhades,</l>
                <l>And, ſeen at diſtance, thro' the opening Glades,</l>
                <l>With bank leſs veild'd, and ſtreams that mildly ſhine,</l>
                <l>Leads round the lonely Hills her ſilver line.</l>
@@ -826,7 +828,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>For ſo ſhe fondly call'd her darling Youth,</l>
                <l>Yet lov'd his ardor, and approv'd his truth.</l>
                <l>
-                  <pb n="24" facs="tcp:022137_0029_0FB6CBB04271DAC0"/>My Siſters, fair, ingenuous, graceful Maids,</l>
+                  <pb n="24" facs="unknown:022137_0029_0FB6CBB04271DAC0"/>My Siſters, fair, ingenuous, graceful Maids,</l>
                <l>Th' acknowledg'd pride of all the neighbouring Shades,</l>
                <l>Met me with bounding ſtep, and joyous mein,</l>
                <l>And rays of tranſport brightened all the ſcene</l>
@@ -856,7 +858,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>The laſt, lone Songſter of the waining Year.</l>
                <l>Light o'er the leaves ſweet Autumn breathes ſerene,</l>
                <l>
-                  <pb n="25" facs="tcp:022137_0030_0FB6CBB1F87143B8"/>And tips with gold their yet unfaded green.</l>
+                  <pb n="25" facs="unknown:022137_0030_0FB6CBB1F87143B8"/>And tips with gold their yet unfaded green.</l>
                <l>Now many a vapor grey the ſtream exhales,</l>
                <l>And Twilight ſteals unheeded on the Vales;</l>
                <l>O'er the hill-top the lines of crimſon run,</l>
@@ -882,7 +884,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>On fibrous Oaks, that roughen all the ground,</l>
                <l>My Steed's fleet hoofs, with hollow noiſe, reſound;</l>
                <l>
-                  <pb n="26" facs="tcp:022137_0031_0FB6CBB2D010A3F0"/>And doubled by the echos from the caves,</l>
+                  <pb n="26" facs="unknown:022137_0031_0FB6CBB2D010A3F0"/>And doubled by the echos from the caves,</l>
                <l>Appal a guilty band of deſperate Slaves;</l>
                <l>For ſoon, in ruthleſs, felon-gripe, I found</l>
                <l>A beautious Female, ſcreaming on the ground;</l>
@@ -910,7 +912,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>Conduct me ſwiftly to the ſwooning Fair.</l>
                <l>The light, cool, drops, ſcoop'd from the neighbouring ſpring,</l>
                <l>
-                  <pb n="27" facs="tcp:022137_0032_0FB6CBB497B1E330"/>O'er her pale brow ſolicitous I fling;</l>
+                  <pb n="27" facs="unknown:022137_0032_0FB6CBB497B1E330"/>O'er her pale brow ſolicitous I fling;</l>
                <l>Till Life's warm tide, which long the Heart detains,</l>
                <l>Returns, ſlow purpling the forſaken veins.</l>
             </lg>
@@ -941,7 +943,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>Then, as emerging from the darkling Wood,</l>
                <l>Along the moon-bright Dales we ſlowly rode</l>
                <l>
-                  <pb n="28" facs="tcp:022137_0033_0FB6CBBB1D3BCB90"/>Surpris'd his gorgeous trappings I behold,</l>
+                  <pb n="28" facs="unknown:022137_0033_0FB6CBBB1D3BCB90"/>Surpris'd his gorgeous trappings I behold,</l>
                <l>The net of Silver, and the thongs of gold;</l>
                <l>While all the veſtments of the lovely Dame</l>
                <l>The pride of elevated rank proclaim.</l>
@@ -972,7 +974,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>All that my Soul has felt, or knows to feel,</l>
                <l>So ſoften'd ſeem th' aſperities of Grief,</l>
                <l>
-                  <pb n="29" facs="tcp:022137_0034_0FB6CBC04233D7C0"/>My Senſes anchor on the kind relief;</l>
+                  <pb n="29" facs="unknown:022137_0034_0FB6CBC04233D7C0"/>My Senſes anchor on the kind relief;</l>
                <l>With trivial circumſtance retard the pen,</l>
                <l>E'er languid Solitude ſhall lower again</l>
                <l>For oh! when loſt in woes of lengthen'd date,</l>
@@ -1001,7 +1003,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>Are ſcreen'd by riſing Hopes, and gay Deſires;</l>
                <l>For ſtill, the parting Hour with care delay'd</l>
                <l>
-                  <pb n="30" facs="tcp:022137_0035_0FB6CBC1F81865B8"/>EMIRA loiters in ERNESTO's ſhade;</l>
+                  <pb n="30" facs="unknown:022137_0035_0FB6CBC1F81865B8"/>EMIRA loiters in ERNESTO's ſhade;</l>
                <l>The noon-tide Sun, the Evening's ſofter ray</l>
                <l>Beholds the Fair-One thro' the Valley ſtray;</l>
                <l>Thus. on <note n="*" place="bottom">EUGENIO's <hi>Siſter.</hi>
@@ -1030,7 +1032,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>Vain! had I never ſeen the matchleſs grace,</l>
                <l>The touching ſweetneſs of LOUISA's face;</l>
                <l>
-                  <pb n="31" facs="tcp:022137_0036_0FB6CBC64DA78390"/>Where from each feature beams, or mildly plays,</l>
+                  <pb n="31" facs="unknown:022137_0036_0FB6CBC64DA78390"/>Where from each feature beams, or mildly plays,</l>
                <l>Refined intelligence, with varying rays;</l>
                <l>Where native dignity, with air ſerene,</l>
                <l>Conſcious, not arrogant, adorns her mein;</l>
@@ -1057,7 +1059,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>Saw her fine Form, by all the Graces dreſt,</l>
                <l>The glowing purple of the floating veſt,</l>
                <l>
-                  <pb n="32" facs="tcp:022137_0037_0FB6CBC8D490FBF0"/>And on her blooming cheek the treſſes bright,</l>
+                  <pb n="32" facs="unknown:022137_0037_0FB6CBC8D490FBF0"/>And on her blooming cheek the treſſes bright,</l>
                <l>That play'd in wavy wreaths of golden light,</l>
                <l>Or on her ſnowy boſom, ſhining fell,</l>
                <l>Like a warm Sun-beam on a Lilly's bell.</l>
@@ -1087,7 +1089,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>Her clouded cheek in deep ſuffuſion glows,</l>
                <l>Proudly exclaiming,—"Can EUGENIO prove</l>
                <l>
-                  <pb n="33" facs="tcp:022137_0038_0FB6CBCCD386B3F8"/>"Cold, and obdurate to my laviſh Love?</l>
+                  <pb n="33" facs="unknown:022137_0038_0FB6CBCCD386B3F8"/>"Cold, and obdurate to my laviſh Love?</l>
                <l>"Has Beauty's magic zone my boſom bound,</l>
                <l>"Does Rank exalt me, and has Fortune crown'd,</l>
                <l>"That faint attractions in a Village Maid</l>
@@ -1117,7 +1119,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>A female Proteus in the wiles of Love!</l>
             </lg>
             <lg>
-               <pb n="34" facs="tcp:022137_0039_0FB6CBCE1F3D6FC0"/>
+               <pb n="34" facs="unknown:022137_0039_0FB6CBCE1F3D6FC0"/>
                <l>To muſe at leiſure on my lovely Maid,</l>
                <l>And woo her image in the lonely Glade,</l>
                <l>Where no EMIRA by the rigid laws</l>
@@ -1148,7 +1150,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>Upon the ruſtic countenance appears</l>
                <l>A fix'd ſolemnity, that wakes my fears.—</l>
                <l>
-                  <pb n="35" facs="tcp:022137_0040_0FB6CBD4203FEBA0"/>"Oh! is all well?"—with breathleſs haſte I cry,</l>
+                  <pb n="35" facs="unknown:022137_0040_0FB6CBD4203FEBA0"/>"Oh! is all well?"—with breathleſs haſte I cry,</l>
                <l>"Thy Friends are well,"—his faltering lips reply;</l>
                <l>Then dread, leſt ſad intelligence invade</l>
                <l>The precious quiet of my native Shade,</l>
@@ -1175,7 +1177,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>Thou ſee'ſt no Guard upon thy turrets height,</l>
                <l>Whoſe ſtreaming torches us'd to gild the night!</l>
                <l>
-                  <pb n="36" facs="tcp:022137_0041_0FB6CBDBD50FD0B0"/>Black, as a mourning weed, they ſilent ſtand,</l>
+                  <pb n="36" facs="unknown:022137_0041_0FB6CBDBD50FD0B0"/>Black, as a mourning weed, they ſilent ſtand,</l>
                <l>And daunt the ſtouteſt heart in Scotia's Land!</l>
             </lg>
             <lg>
@@ -1206,7 +1208,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>"Thoſe gay commercial viſions, falſe and vain,</l>
                <l>"The glittering meteors of his artful brain!</l>
                <l>
-                  <pb n="37" facs="tcp:022137_0042_0FB6CBDCF5E6E788"/>"Too well he knew no genuine light they gave,</l>
+                  <pb n="37" facs="unknown:022137_0042_0FB6CBDCF5E6E788"/>"Too well he knew no genuine light they gave,</l>
                <l>"And now they ſink in Ruin's whelming wave!</l>
             </lg>
             <lg>
@@ -1236,7 +1238,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>"Domeſtic Comfort's fair, and favourite ſhade.</l>
             </lg>
             <lg>
-               <pb n="38" facs="tcp:022137_0043_0FB6CBDE5DF6DE30"/>
+               <pb n="38" facs="unknown:022137_0043_0FB6CBDE5DF6DE30"/>
                <l>"We know that Fortune on EMIRA pours</l>
                <l>"Her golden treaſures in unſtinted ſhowers.—</l>
                <l>"EUGENIO'—ſhe ſtands ready to replace</l>
@@ -1265,7 +1267,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>"Thou know'ſt, when Peace, and Plenty's jocund Powers</l>
                <l>"Hung their ripe cluſters round our blooming bowers,</l>
                <l>
-                  <pb n="39" facs="tcp:022137_0044_0FB6CBFEB7F31AD8"/>"The joys that Love, not thoſe which Wealth impart,</l>
+                  <pb n="39" facs="unknown:022137_0044_0FB6CBFEB7F31AD8"/>"The joys that Love, not thoſe which Wealth impart,</l>
                <l>"Form'd the warm wiſh for thee, that fill'd my heart;</l>
                <l>"But now—EUGENIO liſten!—could'ſt thou bear</l>
                <l>"LOUISA's breaſt this weight of woes ſhould ſhare!</l>
@@ -1294,7 +1296,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>"Whoſe chance propitious might each bar remove</l>
                <l>"Or Induſtry reſtore the joys of Love;</l>
                <l>
-                  <pb n="40" facs="tcp:022137_0045_0FB6CC095F3EB7E0"/>"Tho' ſharp the conſciouſneſs, that BELMOR's art</l>
+                  <pb n="40" facs="unknown:022137_0045_0FB6CC095F3EB7E0"/>"Tho' ſharp the conſciouſneſs, that BELMOR's art</l>
                <l>"Muſt to my Fame the deadlieſt wound impart!</l>
                <l>"For oh' the Many, who their ruin owe</l>
                <l>"To my raſh hopes unhappy overthrow,</l>
@@ -1324,7 +1326,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>"Thy Mother!—for whoſe peace, and health, my cares,</l>
                <l>"My fond attention, my inceſſant prayers</l>
                <l>
-                  <pb n="41" facs="tcp:022137_0046_0FB6CC0AA093C478"/>"The Day, and Night beheld!—Oh! muſt I ſee</l>
+                  <pb n="41" facs="unknown:022137_0046_0FB6CC0AA093C478"/>"The Day, and Night beheld!—Oh! muſt I ſee</l>
                <l>"That dear One pine in helpleſs Poverty?</l>
                <l>"While pale, and trembling, ſinks the vital flame,</l>
                <l>"Muſt her ſoft, delicate, and feeble Frame,</l>
@@ -1353,7 +1355,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>Impoſſible!—the ſofter Paſſions fly,</l>
                <l>Nor dare diſſolve great Nature's primal tie.</l>
                <l>
-                  <pb n="42" facs="tcp:022137_0047_0FB6CC13D32C5EF8"/>"Be comforted, my Father!—could thy Son,</l>
+                  <pb n="42" facs="unknown:022137_0047_0FB6CC13D32C5EF8"/>"Be comforted, my Father!—could thy Son,</l>
                <l>"Oh! could he live to ſee thee thus undone,</l>
                <l>"Endure the knowledge, that when Fortune gave</l>
                <l>"The power to ſave thee, he refus'd to ſave?</l>
@@ -1383,7 +1385,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>Thy anchor Hope, on ſhoreleſs oceans driven!</l>
                <l>What then to juſtice or to Love remain'd,</l>
                <l>
-                  <pb n="43" facs="tcp:022137_0048_0FB6CC2DFA41A688"/>But to reſtore the heart, my vows had gain'd;</l>
+                  <pb n="43" facs="unknown:022137_0048_0FB6CC2DFA41A688"/>But to reſtore the heart, my vows had gain'd;</l>
                <l>Wrench from LOUISA's breaſt its cheriſh'd bone,</l>
                <l>And nobly the laſt ſacrifice ſuſtain?</l>
                <l>Renounce her pity, and inſpire her hate,</l>
@@ -1410,7 +1412,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>Feed on the heart, and ſteal the life away.</l>
             </lg>
             <lg>
-               <pb n="44" facs="tcp:022137_0049_0FB6CC2F5391F2E0"/>
+               <pb n="44" facs="unknown:022137_0049_0FB6CC2F5391F2E0"/>
                <l>LOUISA's pity had my ſufferings found,</l>
                <l>Somewhat it ſure had balm'd th' emboſom'd wound;</l>
                <l>But ſince e'en her dear ſympathy was weak,</l>
@@ -1440,7 +1442,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>If thou ſhalt mark, that cold contempt ſuſtains</l>
                <l>That ſeat of ſoftneſs from aſſaulting Pains;</l>
                <l>
-                  <pb n="45" facs="tcp:022137_0050_0FB6CC30CE698B70"/>That no dim tears her cheek's warm roſes pale,</l>
+                  <pb n="45" facs="unknown:022137_0050_0FB6CC30CE698B70"/>That no dim tears her cheek's warm roſes pale,</l>
                <l>No ſighs of anguiſh ſwell the lonely gale,</l>
                <l>Whoſe murmers o'er the graſs-green ſod ſhall riſe,</l>
                <l>Where, cold, and peaceful, loſt EUGENIO lies,</l>
@@ -1469,7 +1471,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>In ſuch an hour, ſhould Scorn, and Anger prove</l>
                <l>Weak to diſpel the grief-awaken'd Love;</l>
                <l>
-                  <pb n="46" facs="tcp:022137_0051_0FB6CC551558D800"/>Sorrowing for him, who could her hopes deceive,</l>
+                  <pb n="46" facs="unknown:022137_0051_0FB6CC551558D800"/>Sorrowing for him, who could her hopes deceive,</l>
                <l>Should ſhe, in bitterneſs of Spirit, grieve</l>
                <l>For Guilt, which, unextenuated, fears</l>
                <l>Barriers to laſt beyond this Vale of tears;</l>
@@ -1499,13 +1501,13 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>My willing Spirit, in the Realms above,</l>
                <l>Shall meet thee ſearching Eye of wounded Love;</l>
                <l>
-                  <pb n="47" facs="tcp:022137_0052_0FB6CC57118E08A8"/>To thee LOUISA my paſt woes impart,</l>
+                  <pb n="47" facs="unknown:022137_0052_0FB6CC57118E08A8"/>To thee LOUISA my paſt woes impart,</l>
                <l>And hear thy Angel Voice ABSOLVE MY HEART.</l>
             </lg>
             <trailer>END OF THE SECOND EPISTLE.</trailer>
          </div>
          <div n="3" type="letter">
-            <pb facs="tcp:022137_0053_0FB6CC58A07F0BC8"/>
+            <pb facs="unknown:022137_0053_0FB6CC58A07F0BC8"/>
             <head>THIRD EPISTLE. LOUISA TO EMMA, WRITTEN THE DAY AFTER SHE HAD RE<g ref="char:EOLhyphen"/>CEIV'D FROM HER, EUGENIO's EXCULPA<g ref="char:EOLhyphen"/>TING LETTER.</head>
             <opener>
                <dateline>
@@ -1526,7 +1528,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>For, in perſpective beauteous, it diſplays</l>
                <l>A long eternity of bliſsful days;</l>
                <l>
-                  <pb n="49" facs="tcp:022137_0054_0FB6CC62AC8195D0"/>Of all thoſe ſacred joys our Souls ſhall prove</l>
+                  <pb n="49" facs="unknown:022137_0054_0FB6CC62AC8195D0"/>Of all thoſe ſacred joys our Souls ſhall prove</l>
                <l>"When pleading Seraphs reunite our love."</l>
             </lg>
             <lg>
@@ -1555,7 +1557,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>Which to ſuch ſad extremes would blindly run,</l>
                <l>Laviſh of health, and ſickening at the Sun;</l>
                <l>
-                  <pb n="50" facs="tcp:022137_0055_0FB6CC698EC2D6D0"/>Since, while an unaccuſing Conſcience threw</l>
+                  <pb n="50" facs="unknown:022137_0055_0FB6CC698EC2D6D0"/>Since, while an unaccuſing Conſcience threw</l>
                <l>Th' eternal portals open to my view,</l>
                <l>My Spirit ſunk, a prey to fond Deſpair,</l>
                <l>And coldly view'd that Heaven thou could'ſt not ſhare;</l>
@@ -1584,7 +1586,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>While every letter, e'er examin'd, wears</l>
                <l>Th' uninjur'd magic of the vaniſh'd years!</l>
                <l>
-                  <pb n="51" facs="tcp:022137_0056_0FB6CC6A9D520310"/>Diſorder'd ſounds my lips pronounce, nor ſpare</l>
+                  <pb n="51" facs="unknown:022137_0056_0FB6CC6A9D520310"/>Diſorder'd ſounds my lips pronounce, nor ſpare</l>
                <l>The uſeleſs queſtion to th' unconſcious air.</l>
                <l>"Does that dear hand yet trace LOUISA's name?</l>
                <l>"Will it his Love, his Innocence proclaim?</l>
@@ -1611,7 +1613,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>Clear was the Sky, and gentle were the Gales,</l>
                <l>And wide and waving ſtream'd the ſnowy Sails;</l>
                <l>
-                  <pb n="52" facs="tcp:022137_0057_0FB6CC6CCCF398F8"/>While, toſſing the green ſea-weed o'er, and o'er,</l>
+                  <pb n="52" facs="unknown:022137_0057_0FB6CC6CCCF398F8"/>While, toſſing the green ſea-weed o'er, and o'er,</l>
                <l>Crept the huſh'd billow on the ſhelly ſhore;</l>
                <l>Soft as th' autumnal breeze among the ſheaves,</l>
                <l>Or gently ruſtling in the fallen leaves;</l>
@@ -1639,7 +1641,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>While the wet Seaman's altering cheek is pale.</l>
             </lg>
             <lg>
-               <pb n="53" facs="tcp:022137_0058_0FB6CC89225E1C68"/>
+               <pb n="53" facs="unknown:022137_0058_0FB6CC89225E1C68"/>
                <l>The Whirling Ship the guiding Rudder mocks,</l>
                <l>It ſtrikes!—it burſts upon the bulging Rocks!</l>
                <l>Unhappy CLAIRMONT, who had vainly tried</l>
@@ -1667,7 +1669,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>She lives!—and Fate may aid the ardent ſtrife,</l>
                <l>And to his arms reſtore his long-loſt Wife?</l>
                <l>
-                  <pb n="54" facs="tcp:022137_0059_0FB6CC8A4A6BD4D8"/>In that dear hope pale Miſery's tortures ceaſe,</l>
+                  <pb n="54" facs="unknown:022137_0059_0FB6CC8A4A6BD4D8"/>In that dear hope pale Miſery's tortures ceaſe,</l>
                <l>And agony ſubſides almoſt to peace.</l>
             </lg>
             <lg>
@@ -1695,7 +1697,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>The vital Powers effuſe a ſofter flame,</l>
                <l>And with ſerener beams pervade her Frame.</l>
                <l>
-                  <pb n="55" facs="tcp:022137_0060_0FB6CC8BE29B8EE0"/>O bid him live!—live, to fulfil each part</l>
+                  <pb n="55" facs="unknown:022137_0060_0FB6CC8BE29B8EE0"/>O bid him live!—live, to fulfil each part</l>
                <l>That makes ſuch awful claims upon his heart;</l>
                <l>And as an Huſband, as a Father, prove</l>
                <l>Virtuous, and great, as in his filial love!</l>
@@ -1722,7 +1724,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>And here to thee, my Friend, I uſed to grieve,</l>
                <l>When Life could charm no more, nor Hope deceive;</l>
                <l>
-                  <pb n="56" facs="tcp:022137_0061_0FB6CC8D2CF51820"/>And here, my long afflicted Spirit, freed</l>
+                  <pb n="56" facs="unknown:022137_0061_0FB6CC8D2CF51820"/>And here, my long afflicted Spirit, freed</l>
                <l>From that barb'd ſhaft, on which it wont to bleed,</l>
                <l>Now bids its ſoften'd feelings gently flow,</l>
                <l>To her, who draws the deadly ſting of Woe.</l>
@@ -1749,7 +1751,7 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
                <l>That ſtoop the ſweet head o'er the latent ſpring,</l>
                <l>And bear the pendant Bees, that humming cling.</l>
                <l>
-                  <pb n="57" facs="tcp:022137_0062_0FB6CCAC4C62E600"/>Juſt gleams the Fount—for, curving o'er its brink,</l>
+                  <pb n="57" facs="unknown:022137_0062_0FB6CCAC4C62E600"/>Juſt gleams the Fount—for, curving o'er its brink,</l>
                <l>The lengthen'd graſs the ſhining Waters drink;</l>
                <l>Their green arms half its glaſſy beauties hide,</l>
                <l>As from beneath them ſteals the wandering tide,</l>
@@ -1773,11 +1775,11 @@ blended with poetic taſte, the end for which it is publiſhed will be obtained.
          <div type="note">
             <p>
                <hi>NOTE,</hi> UPON reading this third Epiſtle to a Friend, he obſerved, that perhaps a compariſon of <hi>LOUISA's</hi> own ſituation with the harder fate of her Lover, and her tender pity for the inevitable miſeries of ſuch a union, might have been acceptable in the place of the epiſode of <hi>CLAIRMONT,</hi>
-               <pb n="58" facs="tcp:022137_0063_0FB6CCAE13BAB860"/>
+               <pb n="58" facs="unknown:022137_0063_0FB6CCAE13BAB860"/>
 and the deſcription of the bower; but it ſhould be conſidered, that <hi>LOUISA</hi> wrote under the immediate impreſſion of her extacy to find <hi>EUGENIO</hi> guiltleſs; that her Mind was not ſober'd enough for reflection. To have inveſtigated the un<g ref="char:EOLhyphen"/>happy lot of her Lover muſt have been a melancholly em<g ref="char:EOLhyphen"/>ployment. Eaſed of an oppreſſive weight of miſery, her exhilarated ſpirits admit not, ſo early, any painful ideas. She does not diſcriminate, ſhe felicitates her deſtiny. Her ſympathy in the fate of her Friends grows more lively—ſhe recollects the ſituation of <hi>CLAIRMONT</hi>—Joy is naturally loquacious, and ſhe is gratified in relating his ſtory to her <hi>EMMA.</hi> She awakens with new vivacity to the impreſſions of pleaſure, which her Mind was accuſtomed to receive from ſcenic objects. The propenſity to dwell on them prevailed even in the hours of her unhappineſs. It is an habit which compares and aſſimilates the ſmiling, or the gloomy views of Nature to the internal feelings, and is common to people of a lively imagination. In the exultation of her Heart to find her Lover yet eſtimable, <hi>LOUISA</hi> ſpeeds to the bower, ſo im<g ref="char:EOLhyphen"/>preſſ'd with his image. Its beauties ſtrike her more for<g ref="char:EOLhyphen"/>cibly than ever, and in this frame of Mind ſhe naturally feels delight in painting them.</p>
          </div>
          <div n="4" type="letter">
-            <pb facs="tcp:022137_0064_0FB6CCAF8E75A518"/>
+            <pb facs="unknown:022137_0064_0FB6CCAF8E75A518"/>
             <head>FOURTH EPISTLE, LOUISA TO EMMA</head>
             <opener>
                <dateline>
@@ -1801,7 +1803,7 @@ and the deſcription of the bower; but it ſhould be conſidered, that <hi>LOUIS
                <l>Yet thrilling ſtart the ſoft ſpontaneous tears.</l>
             </lg>
             <lg>
-               <pb n="60" facs="tcp:022137_0065_0FB6CCCDB7B0E1B8"/>
+               <pb n="60" facs="unknown:022137_0065_0FB6CCCDB7B0E1B8"/>
                <l>'What chance, or generous impulſe, may I bleſs,</l>
                <l>'Thrice gentle Stranger, for this kind addreſs;</l>
                <l>'That thus thou viſiteſt this lonely Grove,</l>
@@ -1831,7 +1833,7 @@ and the deſcription of the bower; but it ſhould be conſidered, that <hi>LOUIS
                <l>'All, all is known!—no ſelfiſh murmers riſe,</l>
                <l>'Nor groans arraign the mandate of the ſkies;</l>
                <l>
-                  <pb n="61" facs="tcp:022137_0066_0FB6CCCF13F52D38"/>'Nobly EUGENIO their high call obey'd!—</l>
+                  <pb n="61" facs="unknown:022137_0066_0FB6CCCF13F52D38"/>'Nobly EUGENIO their high call obey'd!—</l>
                <l>'Oh! what a Wretch were I, ſhould I upbraid,</l>
                <l>'Becauſe th' exalted Youth, whoſe heart I won,</l>
                <l>Deſerves the bleſſing, to be born thy Son!</l>
@@ -1859,7 +1861,7 @@ and the deſcription of the bower; but it ſhould be conſidered, that <hi>LOUIS
                <l>Thus, from his lip, EMIRA's ſtory ſlow'd.</l>
             </lg>
             <lg>
-               <pb n="62" facs="tcp:022137_0067_0FB6CCD0AB759C40"/>
+               <pb n="62" facs="unknown:022137_0067_0FB6CCD0AB759C40"/>
                <l>'When to the Altar my unhappy Son</l>
                <l>'Led the gay Bride, whom all unſought he won,</l>
                <l>'Penſive his eye, and ſerious was his air;</l>
@@ -1886,7 +1888,7 @@ and the deſcription of the bower; but it ſhould be conſidered, that <hi>LOUIS
                <l>'Whoſe glance, ſhe deem'd, might make the World her own.</l>
             </lg>
             <lg>
-               <pb n="63" facs="tcp:022137_0068_0FB6CCEE238FF548"/>
+               <pb n="63" facs="unknown:022137_0068_0FB6CCEE238FF548"/>
                <l>'Unjuſt EMIRA! that could'ſt hope to gain</l>
                <l>'Love's glowing homage from an Heart in pain;</l>
                <l>'Thou ſhould'ſt have ſooth'd th' involuntary ſmart,</l>
@@ -1917,7 +1919,7 @@ and the deſcription of the bower; but it ſhould be conſidered, that <hi>LOUIS
                <l>'What priceleſs peace her wild purſuits neglect!</l>
             </lg>
             <lg>
-               <pb n="64" facs="tcp:022137_0069_0FB6CCEF5435D7E8"/>
+               <pb n="64" facs="unknown:022137_0069_0FB6CCEF5435D7E8"/>
                <l>'On me propitious Heaven the power beſtow'd</l>
                <l>'To cancel the vaſt debt my fortunes ow'd</l>
                <l>'To proud EMIRA,—for my lucky Sails</l>
@@ -1945,7 +1947,7 @@ and the deſcription of the bower; but it ſhould be conſidered, that <hi>LOUIS
                <l>'That in the female breaſt, ſo form'd to prove</l>
                <l>'The ſweet refinements of maternal Love,</l>
                <l>
-                  <pb n="65" facs="tcp:022137_0070_0FB6CCF1017A2898"/>'Diſdain, and guilty Pleaſure, ſhould controul,</l>
+                  <pb n="65" facs="unknown:022137_0070_0FB6CCF1017A2898"/>'Diſdain, and guilty Pleaſure, ſhould controul,</l>
                <l>'And to its yearnings indurate the Soul.</l>
             </lg>
             <lg>
@@ -1974,7 +1976,7 @@ and the deſcription of the bower; but it ſhould be conſidered, that <hi>LOUIS
                <l>'Saw all that decent dreſs, that modeſt pride,</l>
                <l>'Which doubles ev'ry charm it ſeeks to hide,"</l>
                <l>
-                  <pb n="66" facs="tcp:022137_0071_0FB6CCFBA711D0D8"/>'Once the bright Dame of Britain's lovelieſt boaſt,</l>
+                  <pb n="66" facs="unknown:022137_0071_0FB6CCFBA711D0D8"/>'Once the bright Dame of Britain's lovelieſt boaſt,</l>
                <l>'In the Seraglio's wanton Inmate loſt'</l>
             </lg>
             <lg>
@@ -2003,7 +2005,7 @@ and the deſcription of the bower; but it ſhould be conſidered, that <hi>LOUIS
                <l>'The nod familiar of the Coxcomb Throng?</l>
                <l>'Thy name the theme of their laſcivious ſong;</l>
                <l>
-                  <pb n="67" facs="tcp:022137_0072_0FB6CD0095C9B2A0"/>'And from the high-bred Dames, that now excite,</l>
+                  <pb n="67" facs="unknown:022137_0072_0FB6CD0095C9B2A0"/>'And from the high-bred Dames, that now excite,</l>
                <l>'And ſhare the revels of thy dangerous night,</l>
                <l>'Who, when Detection's livid ſpots ariſe,</l>
                <l>'Will ſtudious ſhun, affecting to deſpiſe;</l>
@@ -2032,7 +2034,7 @@ and the deſcription of the bower; but it ſhould be conſidered, that <hi>LOUIS
                <l>'Alas! EMIRA, ſhall this infant live</l>
                <l>'To feel the grief that conſciouſneſs muſt give,</l>
                <l>
-                  <pb n="68" facs="tcp:022137_0073_0FB6CD02296EAC98"/>'When a diſhonour'd Mother's deep diſgrace</l>
+                  <pb n="68" facs="unknown:022137_0073_0FB6CD02296EAC98"/>'When a diſhonour'd Mother's deep diſgrace</l>
                <l>'Pours the pain'd crimſon o'er the youthful face?</l>
                <l>'Or, loſt to Virtue, thy example plead</l>
                <l>'For the light manners, the licentious deed?</l>
@@ -2059,7 +2061,7 @@ and the deſcription of the bower; but it ſhould be conſidered, that <hi>LOUIS
                <l>'Earneſt on him the Fair-One's moiſten'd eyes</l>
                <l>'Turn!—and ſome rays benign of ſoft ſurpriſe</l>
                <l>
-                  <pb n="69" facs="tcp:022137_0074_0FB6CD039A524030"/>'Meet his kind gaze—but ah! the tranſient dawn</l>
+                  <pb n="69" facs="unknown:022137_0074_0FB6CD039A524030"/>'Meet his kind gaze—but ah! the tranſient dawn</l>
                <l>'Of virtuous feeling, inſtant is withdrawn;</l>
                <l>'And thoſe mild beams, that Beauty beſt adorn,</l>
                <l>'Sink in the clouds of recollected Scorn.</l>
@@ -2085,7 +2087,7 @@ and the deſcription of the bower; but it ſhould be conſidered, that <hi>LOUIS
                <l>"Pale on thy cheek, and languid in thine eyes!</l>
             </lg>
             <lg>
-               <pb n="70" facs="tcp:022137_0075_0FB6CD06B9DFE330"/>
+               <pb n="70" facs="unknown:022137_0075_0FB6CD06B9DFE330"/>
                <l>"For me, thy needleſs apprehenſion ſpare!</l>
                <l>"My peace, my fame, abjure EUGENIO's care!</l>
                <l>"And in my boſom female Pride ſhall prove</l>
@@ -2113,7 +2115,7 @@ and the deſcription of the bower; but it ſhould be conſidered, that <hi>LOUIS
                <l>'Each odious geſture that uſurps the place</l>
                <l>'Of eaſy Elegance and genuine Grace;</l>
                <l>
-                  <pb n="71" facs="tcp:022137_0076_0FB6CD1591FA3BE0"/>'To the pain'd hope, the ſecret dread preſage,</l>
+                  <pb n="71" facs="unknown:022137_0076_0FB6CD1591FA3BE0"/>'To the pain'd hope, the ſecret dread preſage,</l>
                <l>'Th' ignoble triumph, and the ſmother'd rage</l>
                <l>'Of fatal Play;—the Ball's fatiguing taſk,</l>
                <l>'And the looſe revel of the wanton maſk;</l>
@@ -2140,7 +2142,7 @@ and the deſcription of the bower; but it ſhould be conſidered, that <hi>LOUIS
                <l>'When in feign'd tranſports veiling cold diſtaſte,</l>
                <l>'With dames of Quality his moments waſte;</l>
                <l>
-                  <pb n="72" facs="tcp:022137_0077_0FB6CD17460CF728"/>'Waſte, to ſupport his conſequence, and prove</l>
+                  <pb n="72" facs="unknown:022137_0077_0FB6CD17460CF728"/>'Waſte, to ſupport his conſequence, and prove</l>
                <l>'His ſway reſiſtleſs in the realms of Love;</l>
                <l>'While by her venal arts himſelf enſlaved,</l>
                <l>'Poor from her ſquandering, by her humors braved,</l>
@@ -2169,7 +2171,7 @@ and the deſcription of the bower; but it ſhould be conſidered, that <hi>LOUIS
                <l>'Then, that her wealth, when Fortune's ſtorm aroſe,</l>
                <l>'Saved his loved Parents from impending woes!</l>
                <l>
-                  <pb n="73" facs="tcp:022137_0078_0FB6D13F18B852C8"/>'Oh! 'twas a thought that would no mark allow</l>
+                  <pb n="73" facs="unknown:022137_0078_0FB6D13F18B852C8"/>'Oh! 'twas a thought that would no mark allow</l>
                <l>'Of juſt reſentment for her broken vow,</l>
                <l>'Save, that he leaves the violated bed,</l>
                <l>'Where Peace no gentle poppy e'er had ſhed,</l>
@@ -2198,7 +2200,7 @@ and the deſcription of the bower; but it ſhould be conſidered, that <hi>LOUIS
                <l>'Hapleſs EMIRA on her dying bed</l>
                <l>'Shrinks from the Phantom with convulſive dread;</l>
                <l>
-                  <pb n="74" facs="tcp:022137_0079_0FB6D140DC54AB98"/>'While conſcience rous'd, her former guilt recalls,</l>
+                  <pb n="74" facs="unknown:022137_0079_0FB6D140DC54AB98"/>'While conſcience rous'd, her former guilt recalls,</l>
                <l>'And with EUGENIO's wrongs her heart appals.</l>
                <l>'Unfelt till this ſad hour, the ſtrong controul</l>
                <l>'Of genuine fondneſs ruſhes on her Soul!</l>
@@ -2226,7 +2228,7 @@ and the deſcription of the bower; but it ſhould be conſidered, that <hi>LOUIS
                <l>'And in EMIRA's pangs forget her own,'</l>
             </lg>
             <lg>
-               <pb n="75" facs="tcp:022137_0080_0FB6D142688801D0"/>
+               <pb n="75" facs="unknown:022137_0080_0FB6D142688801D0"/>
                <l>ERNESTO ceas'd—for Pity's throbs oppreſs'd</l>
                <l>With tender force his venerable breaſt.</l>
                <l>Thro' the remaining way our mutual ſighs,</l>
@@ -2257,7 +2259,7 @@ and the deſcription of the bower; but it ſhould be conſidered, that <hi>LOUIS
                <l>In eyes whoſe beams, like waining ſtars, recede!</l>
             </lg>
             <lg>
-               <pb n="76" facs="tcp:022137_0081_0FB6D16FADCCF9C0"/>
+               <pb n="76" facs="unknown:022137_0081_0FB6D16FADCCF9C0"/>
                <l>Faintly the ſound of that known voice I hear,</l>
                <l>"Oh my LOUISA!" ſcarce it meets my ear,</l>
                <l>Leſt the imperfect ſlumber ſhould be found</l>
@@ -2285,7 +2287,7 @@ and the deſcription of the bower; but it ſhould be conſidered, that <hi>LOUIS
                <l>"Then, dear LOUISA, peaceful ſhall I die,</l>
                <l>"Since hallow'd thus my laſt—remorſeful ſigh;</l>
                <l>
-                  <pb n="77" facs="tcp:022137_0082_0FB6D1765A550338"/>"But Oh! 'tis dread—when Memory diſplays</l>
+                  <pb n="77" facs="unknown:022137_0082_0FB6D1765A550338"/>"But Oh! 'tis dread—when Memory diſplays</l>
                <l>"The guilt-ſtain'd retroſpect of vaniſh'd days!</l>
                <l>"The ſecret—ſelfiſh joy—which hail'd the blow,</l>
                <l>"That laid ERNESTO's proſperous fortunes low;</l>
@@ -2312,7 +2314,7 @@ and the deſcription of the bower; but it ſhould be conſidered, that <hi>LOUIS
                <l>"I know thou wilt!—I feel thy heart expand,</l>
                <l>"In the dear preſſure—of that gentle hand.</l>
                <l>
-                  <pb n="78" facs="tcp:022137_0083_0FB6D17B83293FF8"/>"O ye wrong'd pair! in the laſt awful Morn,</l>
+                  <pb n="78" facs="unknown:022137_0083_0FB6D17B83293FF8"/>"O ye wrong'd pair! in the laſt awful Morn,</l>
                <l>"When my ſtain'd Soul at the eternal Bourn</l>
                <l>"Shall trembling ſtand—her final doom to hear,</l>
                <l>"She leſs ſhall dread—to meet the injur'd there!</l>
@@ -2341,7 +2343,7 @@ and the deſcription of the bower; but it ſhould be conſidered, that <hi>LOUIS
                <l>For thy LOUISA—Words can ill impart</l>
                <l>How dear the comforts eddying round her heart!</l>
                <l>
-                  <pb n="79" facs="tcp:022137_0084_0FB6D17FC3909900"/>How ſoft the Joy, by Sorrow's ſhading hand</l>
+                  <pb n="79" facs="unknown:022137_0084_0FB6D17FC3909900"/>How ſoft the Joy, by Sorrow's ſhading hand</l>
                <l>Touch'd into charms more exquiſitely bland!</l>
                <l>Or paint EUGENIO's tranſports as they riſe,</l>
                <l>More ſweet for generous Pity's mingled ſighs;</l>
@@ -2369,7 +2371,7 @@ and the deſcription of the bower; but it ſhould be conſidered, that <hi>LOUIS
                <l>Their own perfection to th' expanded Heart!</l>
             </lg>
             <lg>
-               <pb n="80" facs="tcp:022137_0085_0FB6D189F69F5E30"/>
+               <pb n="80" facs="unknown:022137_0085_0FB6D189F69F5E30"/>
                <l>Haſte then to ſhare our bleſſings, as they glow</l>
                <l>Thro' the receding ſhades of heavieſt woe!—</l>
                <l>As Spring's fair morn, with calm, and dewy light,</l>
@@ -2380,7 +2382,7 @@ and the deſcription of the bower; but it ſhould be conſidered, that <hi>LOUIS
             <trailer>FINIS.</trailer>
          </div>
          <div type="poem">
-            <pb facs="tcp:022137_0086_0FB6D18B4586A470"/>
+            <pb facs="unknown:022137_0086_0FB6D18B4586A470"/>
             <head>FEW HAPPY MATCHES.</head>
             <lg n="1">
                <head>I.</head>
@@ -2416,7 +2418,7 @@ and the deſcription of the bower; but it ſhould be conſidered, that <hi>LOUIS
                <l>With wanton Flames; thoſe raging Fires</l>
                <l>The purer Bliſs deſtroy:</l>
                <l>
-                  <pb facs="tcp:022137_0087_0FB6D194F9F111A0"/>On <hi>Aetna</hi>'s Top let Furies wed,</l>
+                  <pb facs="unknown:022137_0087_0FB6D194F9F111A0"/>On <hi>Aetna</hi>'s Top let Furies wed,</l>
                <l>And Sheets of Lightning dreſs the Bed</l>
                <l>T' improve the burning Joy.</l>
             </lg>
@@ -2454,7 +2456,7 @@ and the deſcription of the bower; but it ſhould be conſidered, that <hi>LOUIS
                <l>A gentle to a Savage Mind;</l>
                <l>For Love abhors the Sight</l>
                <l>
-                  <pb facs="tcp:022137_0088_0FB6D1974507F6C0"/>Looſe the fierce Tyger from the Deer,</l>
+                  <pb facs="unknown:022137_0088_0FB6D1974507F6C0"/>Looſe the fierce Tyger from the Deer,</l>
                <l>For Native Rage and native Fear</l>
                <l>Riſe and forbid Delight.</l>
             </lg>
@@ -2473,7 +2475,7 @@ and the deſcription of the bower; but it ſhould be conſidered, that <hi>LOUIS
       </body>
       <back>
          <div type="publishers_advertisement">
-            <pb facs="tcp:022137_0089_0FB6D198B4AB13F8"/>
+            <pb facs="unknown:022137_0089_0FB6D198B4AB13F8"/>
             <head>PRINTING AND BOOK-BINDING, In their various Branches are neatly executed by ABEL MORSE, in State Street, NEW-HAVEN:</head>
             <p>
                <hi>WHO HAS FOR SALE,</hi>
